@@ -1,4 +1,4 @@
-## Hey 👋, This is Muhammad Jamal Luthfi
+## Hola Amigo 👋, This is Muhammad Jamal Luthfi
 [![Gmail Badge](https://img.shields.io/badge/-azkacrows@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:azkacrows@gmail.com)](mailto:azkacrows@gmail.com) [![Github Badge](https://img.shields.io/badge/-azkacrows-grey?style=flat&logo=github&logoColor=white&link=https://github.com/azkacrows/)](https://www.github.com/azkacrows/) [![Twitter Badge](https://img.shields.io/badge/-AxDotid-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AxDotid/)](https://www.twitter.com/AxDotid/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=azkacrows.github.io/)](azkacrows.github.io/) <p align='left'>Let be stuff to be written</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=azkacrows alt=azkacrows /> </p>
