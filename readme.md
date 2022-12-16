@@ -6,10 +6,10 @@
 ### <div align="center">I'm Jamal Luthfi, a developer-wannabe 👨‍💻 🚀</div>  
   
 
-<div align="center"> - 🔭 I’m currently working as freelancer  </div>  
+<div align="center">- 🔭 I’m currently working as freelancer  </div>  
   
 
-<div align="center"> - 🌱 I’m currently learning Vue and React </div>  
+<div align="center">- 🌱 I’m currently learning Vue and React </div>  
   
 
 <br/>  
