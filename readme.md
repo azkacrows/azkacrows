@@ -14,12 +14,10 @@
 <br/>  
 
 
-<br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=azkacrows&&style=flat-square)  
   
 
-<br/>  
 
 <br/>  
 
