@@ -23,7 +23,7 @@
 
 
 
-![Codewars Badges] (https://www.codewars.com/users/AxLL/badges/small)
+![Codewars Badges](https://www.codewars.com/users/AxLL/badges/small)  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
