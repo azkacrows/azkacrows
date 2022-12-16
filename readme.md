@@ -18,12 +18,12 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=azkacrows&&style=flat-square)  
   
 
+![Codewars Badges](https://www.codewars.com/users/AxLL/badges/micro)  
+
+
 
 <br/>
 
-
-
-![Codewars Badges](https://www.codewars.com/users/AxLL/badges/small)  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
