@@ -5,3 +5,4 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=azkacrows&show_icons=true&include_all_commits=true)](https://github.com/azkacrows/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azkacrows&layout=compact)](https://github.com/azkacrows/github-readme-stats)
+https://www.codewars.com/users/AxLL/badges/large
