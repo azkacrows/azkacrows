@@ -11,6 +11,15 @@
 
 - 🌱 I’m currently learning Vue and React 
   
+<br/>  
+
+
+<br/>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=azkacrows&&style=flat-square)  
+  
+
+<br/>  
 
 <br/>  
 
@@ -82,17 +91,6 @@
 
 <br/>  
 
-
-<br/>  
-  
-
-<br/>  
-
-
-<br/>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=azkacrows&&style=flat-square)  
-  
 
 <br/>  
 
