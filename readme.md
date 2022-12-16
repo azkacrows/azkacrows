@@ -15,7 +15,7 @@
 
 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=azkacrows&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=azkacrows&&style=flat-square)  https://www.codewars.com/users/AxLL/badges/large
   
 
 
