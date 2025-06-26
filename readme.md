@@ -7,7 +7,7 @@
 -   👨🏻‍💼 My name is `Muhammad Jamal Luthfi`
 -   🏠 Live in `Jombang, Indonesia`
 -   👶🏻 Born in `Malang, Indonesia`
--   🌟 Currently learning `GO languages`
+-   🌟 Currently learning `QA Engineer`
 -   📫 How to reach me `azka.achill@gmail.com`
 -   ⚡ Fun fact `I realy like Coffee`
 -   💬 Ask me about `MEVN and the other`
