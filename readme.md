@@ -1,16 +1,15 @@
 <h1 align="center">Muhammad Jamal Luthfi</h1>
-<h3 align="center">Vue Developer | Google Certified IT Support</h3>
+<h3 align="center">ReactJS Developer | Google Certified IT Support</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/azkacrows/azkacrows/blob/0e157ac6a8726a4425ce9475912e919e2f3b5a94/software.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azkacrows&label=Profile%20Views&color=0e75b6&style=flat" alt="azkacrows" /> </p>
 
 -   👨🏻‍💼 My name is `Muhammad Jamal Luthfi`
 -   🏠 Live in `Jombang, Indonesia`
--   👶🏻 Born in `Malang, Indonesia`
 -   🌟 Currently learning `QA Engineer`
--   📫 How to reach me `azka.achill@gmail.com`
+-   📫 How to reach me `Jamal.luthfi121@gmail.com`
 -   ⚡ Fun fact `I realy like Coffee`
--   💬 Ask me about `MEVN and the other`
+-   💬 Ask me about `MERN and the other`
 
 ## 🌏 Connect With Me 🌏
 
