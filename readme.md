@@ -15,7 +15,6 @@ UI Performance • Accessibility • Clean Architecture
 Frontend Web Developer with hands-on experience building **responsive, accessible, and performance-focused** web applications.
 
 I specialize in **React, Next.js, Tailwind CSS**, and converting designs into **pixel-perfect UI** with clean, maintainable code.  
-I also apply **QA & testing mindset** to reduce UI bugs, CLS, and UX regressions.
 
 - 📍 Jombang, East Java — Indonesia  
 - 🎯 Focus: **Frontend Architecture & UI Performance**
