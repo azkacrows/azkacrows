@@ -16,7 +16,7 @@ Frontend Web Developer with hands-on experience building **responsive, accessibl
 
 I specialize in **React, Next.js, Tailwind CSS**, and converting designs into **pixel-perfect UI** with clean, maintainable code.  
 
-- 📍 Jombang, East Java — Indonesia  
+- 📍 Based in **Jombang, East Java, Indonesia**
 - 🎯 Focus: **Frontend Architecture & UI Performance**
 - 🌱 Currently improving **Next.js 15, Web Vitals, Testing**
 - 📫 Email: **Jamal.luthfi121@gmail.com**
